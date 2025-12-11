@@ -48,7 +48,8 @@ Attrition by overtime
 
 ## Project Structure
 employee-attrition-prediction/
-├── streamlit_app.py          # Main Streamlit application
+├── 
+streamlit_app.py          # Main Streamlit application
 ├── xgboost_model.pkl         # Trained & tuned XGBoost model
 ├── preprocessor.pkl          # Full preprocessing pipeline
 ├── project_depi.ipynb    # Complete Jupyter notebook 
